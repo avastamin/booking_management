@@ -1,0 +1,22 @@
+{
+  "name": "bookingsystem",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ruhul Amin <r_amin105@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular-ui-calendar": "^1.0.2"
+  }
+}
