@@ -4,7 +4,8 @@ This is a one page booking  mangement application build with [Laravel](http://la
 
 
 ## How to use this application
- 1. clone or download the files
+You can read this blog for more details [Fullcalendar Blog](http://wpbdcoders.com/booking-management-full-calendar/)
+ 1. Clone or download the files
  2. Go to the directory and run `composer update`
  3. Run database Migration `php artisan migrate`
  4. Run the application `php artisan serve`
