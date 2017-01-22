@@ -10,12 +10,6 @@ App.controller('eventsController', ['$scope','eventsModel','uiCalendarConfig','$
     /* Change View */
     $scope.changeView = function(view,calendar) {
 
-        $scope.currentMonth = moment(view.title).format("YYYY-MM");
-
-        $scope.currentMonthInUTC = view.dayGrid.dayDates[10]._d; // used to 10 to avoid past month
-
-        //  console.log( moment($scope.currentMonthInUTC).startOf("month").format("YYYY-MM-DD"));
-
     };
     /* Change View */
     $scope.renderCalendar = function(calendar) {
@@ -26,19 +20,59 @@ App.controller('eventsController', ['$scope','eventsModel','uiCalendarConfig','$
         });
     };
     $scope.eventClick = function(calEvent, jsEvent, view) {
-        alert('Event clicked!')
+
+        eventsModel.getevent(calEvent.id)
+            .success(function (data) {
+                console.log(data);
+                var uibmodalinstance =  $uibModal.open({
+                    animation: true,
+                    ariaLabelledBy: 'modal-title-bottom',
+                    ariaDescribedBy: 'modal-body-bottom',
+                    templateUrl:  'templates/partials/edit-event-form.html',
+                    size: 'sm',
+                    controller: function ($scope) {
+                        $scope.eventFormdata = data;
+                        $scope.eventFormdata.startdate = '2017-01-03';
+                        $scope.updateEvent = function () {
+                            console.log( $scope.eventFormdata);
+                            eventsModel.save($scope.eventFormdata)
+                                .success(function (data) {
+                                    $scope.cancel();
+                                });
+                        };
+                        $scope.cancel = function () {
+                            uibmodalinstance.close('cancel');
+                        };
+                        $scope.delete = function () {
+                            eventsModel.destroy($scope.eventFormdata.id)
+                                .success(function (data) {
+                                    $scope.cancel();
+                                });
+                        }
+                    }
+                });
+            });
     };
 
     $scope.dayClick = function(date, jsEvent, view) {
-        $uibModal.open({
+     var uibmodalinstance =  $uibModal.open({
             animation: true,
             ariaLabelledBy: 'modal-title-bottom',
             ariaDescribedBy: 'modal-body-bottom',
             templateUrl:  'templates/partials/add-event-form.html',
             size: 'sm',
             controller: function ($scope) {
-                // we will store all of our form data in this object
-                $scope.formData = {};
+                $scope.eventFormdata = {};
+             $scope.addEvent = function () {
+                 console.log( $scope.eventFormdata);
+                 eventsModel.save($scope.eventFormdata)
+                     .success(function (data) {
+                         $scope.cancel();
+                     });
+             };
+              $scope.cancel = function () {
+                  uibmodalinstance.close('cancel');
+              }
             }
         })
     };
@@ -78,12 +112,12 @@ App.controller('eventsController', ['$scope','eventsModel','uiCalendarConfig','$
     };
     $scope.callbackevents = function(start, end, timezone, callback) {
 
-        eventsModel.get()
+        eventsModel.getevents()
             .success(function (data) {
                 console.log(data);
                 var events = [];
                 angular.forEach(data,function(event,key){
-                    $scope.events.push({id: event.id, title: event.tilte, start: event.start_time});
+                    $scope.events.push({id: event.id, title: event.name, start: event.start_time});
                 });
 
                 callback(events);

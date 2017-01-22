@@ -23,6 +23,7 @@ elixir(function(mix) {
         'angular_route': '/vendor/bower_components/angular-route',
         'angular_bootstrap': '/vendor/bower_components/angular-bootstrap',
         'angular_ui_calendar': '/vendor/bower_components/angular-ui-calendar/src',
+        'angular_moment_picker': '/vendor/bower_components/angular-moment-picker/dist'
     }
 
     mix.sass('app.scss')
@@ -30,6 +31,7 @@ elixir(function(mix) {
             paths.bootstrap + "/css/bootstrap.css",
             paths.fontawesome + "/css/font-awesome.css",
             paths.fullcalendar + "/fullcalendar.css",
+            paths.angular_moment_picker + "/angular-moment-picker.min.css"
         ],'public/css/all.css', './');
 
     mix.scripts([
@@ -42,6 +44,8 @@ elixir(function(mix) {
         paths.angular_bootstrap + "/ui-bootstrap.min.js",
         paths.angular_bootstrap + "/ui-bootstrap-tpls.min.js",
         paths.angular_ui_calendar + "/calendar.js",
+        paths.angular_moment_picker + "/angular-moment-picker.min.js"
+
     ],'public/js/all.js', './');
 
     mix.scripts([

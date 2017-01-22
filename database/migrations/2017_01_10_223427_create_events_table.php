@@ -18,7 +18,6 @@ class CreateEventsTable extends Migration
             $table->string('name', 100);
             $table->string('email');
             $table->string('title', 100);
-            $table->text('description')->nullable();
             $table->timestamp('start_time');
             $table->timestamp('end_time')->nullable();
             $table->timestamps();

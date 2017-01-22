@@ -1,0 +1,49 @@
+<div class="modal-header">
+    <h3 class="modal-title pull-left" id="modal-title">Edit Event</h3>
+    <button class="btn btn-danger pull-right" type="button" ng-click="delete()">Delete</button>
+</div>
+<div class="modal-body" id="modal-body">
+    <div class="form-group">
+        <label for="usr">Name:</label>
+        <input type="text" class="form-control" id="usr" name="name" ng-model="eventFormdata.name">
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" class="form-control" id="email" ng-model="eventFormdata.email">
+    </div>
+    <div class="form-group">
+        <label for="title">Title:</label>
+        <input type="text" class="form-control" id="title" ng-model="eventFormdata.title">
+    </div>
+    <div class="row">
+        <div class="form-group col-md-6">
+            <label for="title">Start Date:</label>
+            <div class="input-group"
+                 moment-picker="eventFormdata.startdate"
+                 format="YYYY-MM-DD">
+                <input class="form-control"
+                       placeholder="Select a date"
+                       ng-model="eventFormdata.startdate"
+                       ng-model-options="{ updateOn: 'blur' }">
+            </div>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="title">End Date:</label>
+            <div class="input-group"
+                 moment-picker="eventFormdata.enddate"
+                 format="HH:mm:ss">
+                <input class="form-control"
+                       placeholder="Select a time"
+                       ng-model="eventFormdata.enddate"
+                       ng-model-options="{ updateOn: 'blur' }">
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<div class="modal-footer">
+    {{ eventFormdata.timepicker }}
+    <button class="btn btn-primary" type="button" ng-click="updateEvent()">Update</button>
+    <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+</div>

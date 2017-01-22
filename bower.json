@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "angular-ui-calendar": "^1.0.2"
+    "angular-ui-calendar": "^1.0.2",
+    "bootstrap-ui-datetime-picker": "^2.5.2"
   }
 }
