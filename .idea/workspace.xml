@@ -2,494 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c2626ea-405f-4b8b-8007-66099c544afb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/partials/edit-event-form.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/build/js/app-aa12cd74ff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/build/js/controllers-f187257538.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/build/js/models-5df8edbea8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/templates/amd-named.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/templates/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/templates/globals.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh-TW.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/EventController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/EventController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2017_01_10_223427_create_events_table.php" afterPath="$PROJECT_DIR$/database/migrations/2017_01_10_223427_create_events_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/build/js/app.js.map" afterPath="$PROJECT_DIR$/public/build/js/app.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/build/js/controllers.js.map" afterPath="$PROJECT_DIR$/public/build/js/controllers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/build/js/models.js.map" afterPath="$PROJECT_DIR$/public/build/js/models.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/build/rev-manifest.json" afterPath="$PROJECT_DIR$/public/build/rev-manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/all.css" afterPath="$PROJECT_DIR$/public/css/all.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/all.css.map" afterPath="$PROJECT_DIR$/public/css/all.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/all.js" afterPath="$PROJECT_DIR$/public/js/all.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/all.js.map" afterPath="$PROJECT_DIR$/public/js/all.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app.js.map" afterPath="$PROJECT_DIR$/public/js/app.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/controllers.js" afterPath="$PROJECT_DIR$/public/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/controllers.js.map" afterPath="$PROJECT_DIR$/public/js/controllers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/models.js" afterPath="$PROJECT_DIR$/public/js/models.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/models.js.map" afterPath="$PROJECT_DIR$/public/js/models.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/calendar.html" afterPath="$PROJECT_DIR$/public/templates/calendar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/partials/add-event-form.html" afterPath="$PROJECT_DIR$/public/templates/partials/add-event-form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/js/app.js" afterPath="$PROJECT_DIR$/resources/assets/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/js/controllers/eventsController.js" afterPath="$PROJECT_DIR$/resources/assets/js/controllers/eventsController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/js/models/eventsModel.js" afterPath="$PROJECT_DIR$/resources/assets/js/models/eventsModel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/master.blade.php" afterPath="$PROJECT_DIR$/resources/views/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/.bower.json" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/LICENSE" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/README.md" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/bower.json" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/af.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/af.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar-ma.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar-ma.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar-sa.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar-sa.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar-tn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar-tn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/az.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/az.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/be.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/be.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bg.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bo.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/br.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/br.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bs.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/bs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ca.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/cs.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/cs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/cv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/cv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/cy.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/cy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/da.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/da.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/de-at.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/de-at.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/de.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/de.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/el.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/el.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/en-au.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/en-au.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/en-ca.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/en-ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/en-gb.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/en-gb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/eo.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/eo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/es.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/es.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/et.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/et.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/eu.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/eu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fa.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fa.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fi.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fo.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fr-ca.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fr-ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fy.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/fy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/gl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/gl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/he.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/he.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hi.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hu.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hy-am.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/hy-am.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/id.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/id.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/is.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/is.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/it.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/it.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ja.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ja.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/jv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/jv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ka.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ka.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/km.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/km.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ko.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ko.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/lb.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/lb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/lt.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/lt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/lv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/lv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/me.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/me.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/mk.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/mk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ml.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ml.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/mr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/mr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ms-my.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ms-my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ms.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ms.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/my.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/nb.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/nb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ne.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ne.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/nl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/nl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/nn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/nn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/pl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/pl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/pt-br.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/pt-br.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/pt.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/pt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ro.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ru.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/si.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/si.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sk.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sq.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sq.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sr-cyrl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sr-cyrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/sv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ta.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/ta.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/th.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/th.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tl-ph.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tl-ph.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tzl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tzl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tzm-latn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tzm-latn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tzm.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/tzm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/uk.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/uk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/uz.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/uz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/vi.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/vi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/zh-cn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/zh-cn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/locale/zh-tw.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/locale/zh-tw.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/min/locales.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/min/locales.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/min/locales.min.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/min/locales.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/min/moment-with-locales.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/min/moment-with-locales.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/min/moment-with-locales.min.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/min/moment-with-locales.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/min/moment.min.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/min/moment.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/min/tests.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/min/tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/moment.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/moment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/check-overflow.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/check-overflow.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/date-from-array.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/date-from-array.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-anything.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-anything.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-array.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-array.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-object.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-object.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-string-and-format.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-string-and-format.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-string.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/from-string.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/parsing-flags.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/parsing-flags.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/valid.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/create/valid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/constructor.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/constructor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/create.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/create.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/duration.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/duration.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/humanize.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/duration/humanize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/format/format.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/format/format.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/calendar.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/calendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/constructor.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/constructor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/lists.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/lists.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/locale.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/locale.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/locales.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/locales.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/prototype.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/prototype.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/relative.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/relative.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/set.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/locale/set.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/add-subtract.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/add-subtract.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/calendar.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/calendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/compare.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/compare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/constructor.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/constructor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/diff.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/diff.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/format.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/format.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/from.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/from.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/get-set.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/get-set.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/min-max.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/min-max.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/moment.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/moment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/prototype.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/prototype.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/start-end-of.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/start-end-of.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/to-type.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/to-type.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/to.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/moment/to.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/parse/regex.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/parse/regex.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/parse/token.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/parse/token.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/aliases.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/aliases.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/constants.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/day-of-month.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/day-of-month.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/day-of-week.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/day-of-week.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/day-of-year.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/day-of-year.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/hour.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/hour.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/millisecond.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/millisecond.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/minute.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/minute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/month.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/month.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/offset.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/offset.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/quarter.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/quarter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/second.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/second.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/week-year.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/week-year.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/week.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/week.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/year.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/units/year.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/utils/abs-floor.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/utils/abs-floor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/utils/deprecate.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/utils/deprecate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/utils/is-array.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/lib/utils/is-array.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/af.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/af.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar-ma.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar-ma.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar-sa.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar-sa.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar-tn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar-tn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/az.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/az.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/be.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/be.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bg.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bo.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/br.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/br.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bs.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/bs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ca.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/cs.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/cs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/cv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/cv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/cy.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/cy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/da.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/da.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/de-at.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/de-at.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/de.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/de.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/el.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/el.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/en-au.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/en-au.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/en-ca.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/en-ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/en-gb.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/en-gb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/eo.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/eo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/es.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/es.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/et.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/et.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/eu.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/eu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fa.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fa.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fi.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fo.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fr-ca.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fr-ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fy.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/fy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/gl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/gl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/he.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/he.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hi.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hu.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hy-am.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/hy-am.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/id.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/id.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/is.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/is.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/it.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/it.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ja.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ja.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/jv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/jv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ka.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ka.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/km.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/km.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ko.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ko.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/lb.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/lb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/lt.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/lt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/lv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/lv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/me.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/me.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/mk.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/mk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ml.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ml.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/mr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/mr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ms-my.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ms-my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ms.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ms.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/my.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/nb.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/nb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ne.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ne.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/nl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/nl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/nn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/nn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/pl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/pl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/pt-br.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/pt-br.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/pt.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/pt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ro.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ru.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/si.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/si.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sk.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sq.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sq.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sr-cyrl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sr-cyrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sv.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/sv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ta.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/ta.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/th.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/th.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tl-ph.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tl-ph.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tr.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tzl.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tzl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tzm-latn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tzm-latn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tzm.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/tzm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/uk.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/uk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/uz.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/uz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/vi.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/vi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/zh-cn.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/zh-cn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/zh-tw.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/locale/zh-tw.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/src/moment.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/src/moment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/templates/locale-header.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/templates/locale-header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower_components/moment/templates/test-header.js" afterPath="$PROJECT_DIR$/vendor/bower_components/moment/templates/test-header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/readme.md" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/af.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/af.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ar.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/az.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/az.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bg.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bn.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bn.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cs.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/da.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/da.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/de.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/de.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/el.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/el.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eo.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/et.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/et.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eu.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fa.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fa.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fi.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fo.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/he.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/he.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hr.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hu.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/id.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/id.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/it.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/it.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ja.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ja.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lt.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lv.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lv.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ms.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ms.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt_BR.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt_BR.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ro.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ru.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ru.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sk.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sq.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sq.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sv.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sv.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/th.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/th.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/tr.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/tr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uk.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uz.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/vi.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/vi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/.gitignore" afterPath="$PROJECT_DIR$/vendor/psy/psysh/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/.travis.yml" afterPath="$PROJECT_DIR$/vendor/psy/psysh/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/README.md" afterPath="$PROJECT_DIR$/vendor/psy/psysh/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/composer.json" afterPath="$PROJECT_DIR$/vendor/psy/psysh/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/UseStatementPass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/UseStatementPass.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ValidClassNamePass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ValidClassNamePass.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ValidFunctionNamePass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ValidFunctionNamePass.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ParseCommand.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ParseCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Shell.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Shell.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/InstanceOfPassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/InstanceOfPassTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ValidClassNamePassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ValidClassNamePassTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ValidFunctionNamePassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ValidFunctionNamePassTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/ConfigurationTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/ConfigurationTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Formatter/CodeFormatterTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Formatter/CodeFormatterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Formatter/SignatureFormatterTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Formatter/SignatureFormatterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Reflection/ReflectionConstantTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Reflection/ReflectionConstantTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/ShellTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/ShellTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Application.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Application.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Command/Command.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Command/Command.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Descriptor/MarkdownDescriptor.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Descriptor/MarkdownDescriptor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Descriptor/TextDescriptor.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Descriptor/TextDescriptor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Formatter/OutputFormatter.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Formatter/OutputFormatter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Formatter/OutputFormatterStyleStack.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Formatter/OutputFormatterStyleStack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/DescriptorHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/DescriptorHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/Helper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/Helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/SymfonyQuestionHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/SymfonyQuestionHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/Table.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/Table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/TableStyle.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/TableStyle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/console/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Question/ChoiceQuestion.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Question/ChoiceQuestion.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Question/Question.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Question/Question.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Style/SymfonyStyle.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Style/SymfonyStyle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/ApplicationTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/ApplicationTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Command/CommandTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Command/CommandTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/AbstractDescriptorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/AbstractDescriptorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/MarkdownDescriptorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/MarkdownDescriptorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/ObjectsProvider.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/ObjectsProvider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/TextDescriptorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Descriptor/TextDescriptorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/HelperSetTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/HelperSetTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/ProgressBarTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/ProgressBarTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/QuestionHelperTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/QuestionHelperTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/SymfonyQuestionHelperTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/SymfonyQuestionHelperTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Output/ConsoleOutputTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Output/ConsoleOutputTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Output/NullOutputTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Output/NullOutputTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/SyntaxErrorException.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/SyntaxErrorException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/Specificity.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/Specificity.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/TokenStream.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/TokenStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Translator.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Translator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/XPathExpr.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/XPathExpr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/ErrorHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/ErrorHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/ExceptionHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/ExceptionHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/FatalErrorHandler/UndefinedMethodFatalErrorHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/FatalErrorHandler/UndefinedMethodFatalErrorHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/debug/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/ErrorHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/ErrorHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/ExceptionHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/ExceptionHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/FatalErrorHandler/UndefinedMethodFatalErrorHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/FatalErrorHandler/UndefinedMethodFatalErrorHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dom-crawler/Crawler.php" afterPath="$PROJECT_DIR$/vendor/symfony/dom-crawler/Crawler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dom-crawler/Form.php" afterPath="$PROJECT_DIR$/vendor/symfony/dom-crawler/Form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dom-crawler/FormFieldRegistry.php" afterPath="$PROJECT_DIR$/vendor/symfony/dom-crawler/FormFieldRegistry.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dom-crawler/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/dom-crawler/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/GenericEvent.php" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/GenericEvent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/ContainerAwareEventDispatcherTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/ContainerAwareEventDispatcherTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/Debug/TraceableEventDispatcherTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/Debug/TraceableEventDispatcherTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/DependencyInjection/RegisterListenersPassTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/DependencyInjection/RegisterListenersPassTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/ImmutableEventDispatcherTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Tests/ImmutableEventDispatcherTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/finder/Finder.php" afterPath="$PROJECT_DIR$/vendor/symfony/finder/Finder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/finder/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/finder/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/AcceptHeader.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/AcceptHeader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/AcceptHeaderItem.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/AcceptHeaderItem.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/BinaryFileResponse.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/BinaryFileResponse.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Cookie.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Cookie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/File.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/File.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/MimeType/ExtensionGuesser.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/MimeType/ExtensionGuesser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/MimeType/MimeTypeGuesser.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/MimeType/MimeTypeGuesser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/JsonResponse.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/JsonResponse.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/RedirectResponse.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/RedirectResponse.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Response.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Response.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/StreamedResponse.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/StreamedResponse.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/CookieTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/CookieTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/File/FileTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/File/FileTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/ResponseHeaderBagTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/ResponseHeaderBagTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/ResponseTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/ResponseTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/MemcacheSessionHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/MemcacheSessionHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/MemcachedSessionHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/MemcachedSessionHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/PdoSessionHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/PdoSessionHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/WriteCheckSessionHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/WriteCheckSessionHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Proxy/SessionHandlerProxyTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Proxy/SessionHandlerProxyTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Kernel.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Kernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Profiler/Profile.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Profiler/Profile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Bundle/BundleTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Bundle/BundleTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/CacheClearer/ChainCacheClearerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/CacheClearer/ChainCacheClearerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/ClientTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/ClientTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Config/FileLocatorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Config/FileLocatorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Controller/ArgumentResolverTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Controller/ArgumentResolverTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Controller/ControllerResolverTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Controller/ControllerResolverTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/LoggerDataCollectorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/LoggerDataCollectorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/RequestDataCollectorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/RequestDataCollectorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/TimeDataCollectorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/TimeDataCollectorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Debug/TraceableEventDispatcherTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Debug/TraceableEventDispatcherTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DependencyInjection/FragmentRendererPassTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DependencyInjection/FragmentRendererPassTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DependencyInjection/LazyLoadingFragmentHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DependencyInjection/LazyLoadingFragmentHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DependencyInjection/MergeExtensionConfigurationPassTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DependencyInjection/MergeExtensionConfigurationPassTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/AddRequestFormatsListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/AddRequestFormatsListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/DebugHandlersListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/DebugHandlersListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ExceptionListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ExceptionListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/FragmentListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/FragmentListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/LocaleListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/LocaleListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ProfilerListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ProfilerListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ResponseListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ResponseListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/RouterListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/RouterListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/SurrogateListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/SurrogateListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/TestSessionListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/TestSessionListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/TranslatorListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/TranslatorListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ValidateRequestListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/ValidateRequestListenerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fixtures/Controller/BasicTypesController.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fixtures/Controller/BasicTypesController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingRequest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingRequest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fixtures/Controller/VariadicController.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fixtures/Controller/VariadicController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fragment/FragmentHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fragment/FragmentHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fragment/HIncludeFragmentRendererTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fragment/HIncludeFragmentRendererTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fragment/InlineFragmentRendererTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fragment/InlineFragmentRendererTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpCache/EsiTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpCache/EsiTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpCache/SsiTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpCache/SsiTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpKernelTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpKernelTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/KernelTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/KernelTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/process/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/Process.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Process.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/ProcessBuilder.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/ProcessBuilder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/ProcessFailedExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Tests/ProcessFailedExceptionTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/routing/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/DumperCollection.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/DumperCollection.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/DumperPrefixCollection.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/DumperPrefixCollection.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/RequestContext.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/RequestContext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Route.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Route.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/RouteCollectionBuilder.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/RouteCollectionBuilder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Generator/UrlGeneratorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Generator/UrlGeneratorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Loader/PhpFileLoaderTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Loader/PhpFileLoaderTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Loader/XmlFileLoaderTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Loader/XmlFileLoaderTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Loader/YamlFileLoaderTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Tests/Loader/YamlFileLoaderTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Tests/RouteCollectionBuilderTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Tests/RouteCollectionBuilderTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Tests/RouterTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Tests/RouterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/translation/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogueInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogueInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Tests/LoggingTranslatorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/LoggingTranslatorTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Tests/MessageCatalogueTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/MessageCatalogueTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorCacheTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorCacheTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Writer/TranslationWriterTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Writer/TranslationWriterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/Caster/ReflectionCaster.php" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/Caster/ReflectionCaster.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Inline.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Inline.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Parser.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Parser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/ParserTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/ParserTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="booking_management.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -510,27 +24,7 @@
     <favorites_list name="booking_management" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="eventsController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/assets/js/controllers/eventsController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit-event-form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/templates/partials/edit-event-form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="76" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="calendar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/templates/calendar.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -544,18 +38,8 @@
       <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
+            <state relative-caret-position="999">
               <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eventsModel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/assets/js/models/eventsModel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -564,7 +48,7 @@
       <file leaf-file-name="add-event-form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/templates/partials/add-event-form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
+            <state relative-caret-position="486">
               <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
               <folding />
             </state>
@@ -594,18 +78,54 @@
       <file leaf-file-name="2017_01_10_223427_create_events_table.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/migrations/2017_01_10_223427_create_events_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="648">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Event.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Event.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="135">
+                <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="513">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -638,6 +158,8 @@
         <option value="$PROJECT_DIR$/resources/views/master.blade.php" />
         <option value="$PROJECT_DIR$/public/templates/partials/add-event-form.html" />
         <option value="$PROJECT_DIR$/database/migrations/2017_01_10_223427_create_events_table.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -656,10 +178,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="-257" />
-    <option name="width" value="1920" />
-    <option name="height" value="990" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -686,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ColorIdeProjectViewPane">
         <subPane>
           <PATH>
@@ -743,262 +263,13 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booking_management" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1032,6 +303,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1068,34 +345,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484859524130</updated>
-      <workItem from="1484859526743" duration="15950000" />
+      <workItem from="1484859526743" duration="16457000" />
+      <workItem from="1485122918058" duration="559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15950000" />
+    <option name="totallyTimeSpent" value="17016000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-257" width="1920" height="990" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1765625" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1108,84 +386,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#40#68#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/partials/edit-event-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="76" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/js/models/eventsModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/js/controllers/eventsController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="1161">
           <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1200,24 +404,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
+        <state relative-caret-position="999">
           <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/models/eventsModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/templates/partials/add-event-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
+        <state relative-caret-position="486">
           <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/UserTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1240,16 +444,183 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2017_01_10_223427_create_events_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="648">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="26" />
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/partials/edit-event-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="76" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/models/eventsModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/controllers/eventsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="99" selection-start-line="2" selection-start-column="83" selection-end-line="2" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/partials/add-event-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/UserTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_01_10_223427_create_events_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
