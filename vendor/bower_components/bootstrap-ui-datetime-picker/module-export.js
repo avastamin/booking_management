@@ -1,1 +1,0 @@
-module.exports = 'ui.bootstrap.datetimepicker';
